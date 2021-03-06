@@ -1,9 +1,9 @@
 {
-  "name": "gatsby-starter-julia",
+  "name": "nipunbhatnagar-blog",
   "private": true,
-  "description": "A minimal blog template built with Gatsby",
+  "description": "Trying out blog.",
   "version": "0.1.0",
-  "author": "Niklas Metje <hi@niklasmtj.de>",
+  "author": "Nipun <nipunbhatnagar2@gmail.com>",
   "dependencies": {
     "@emotion/core": "^10.0.28",
     "@emotion/styled": "^10.0.27",
@@ -31,9 +31,7 @@
   "devDependencies": {
     "prettier": "^2.0.5"
   },
-  "keywords": [
-    "gatsby"
-  ],
+  "keywords": ["gatsby"],
   "license": "MIT",
   "scripts": {
     "build": "gatsby build",
